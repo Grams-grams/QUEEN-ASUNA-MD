@@ -7,7 +7,7 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "INCONNU~XD~GpgEAaAQ#x5m-KE4hbqu18JX1UWDys9fcmBbm0_gqOwU_5Zj5mUY",
+SESSION_ID: process.env.SESSION_ID || "INCONNU~XD~3pRB0YxY#v1bVEzKLrr96zdpqrFnUm_jcOQCPS2OXCmTFPU7SbD4",
 AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
 AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
 AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
@@ -19,7 +19,7 @@ MENTION_REPLY: process.env.MENTION_REPLY || "false",
 MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/p1xybt.jpg",
 PREFIX: process.env.PREFIX || "+", 
 BOT_NAME: process.env.BOT_NAME || "QUEEN-ASUNA-MD",
-STICKER_NAME: process.env.STICKER_NAME || "QUEEN-ASUNA-MD",
+STICKER_NAME: process.env.STICKER_NAME || "your life",
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false", 
 CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍",
 DELETE_LINKS: process.env.DELETE_LINKS || "false",
